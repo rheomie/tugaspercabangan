@@ -20,7 +20,7 @@ public class ActivityClass {
     public static void main(String[] args) {
         // TODO code application logic here
         Data rio = new Data();
-        rio.kelas = "TI12K";
+        rio.kelas = "SI13G";
         System.out.print(rio.kelas);
         
         DataMahasiswa sanriomi = new DataMahasiswa();
